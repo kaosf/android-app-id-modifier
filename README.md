@@ -9,3 +9,7 @@ This tool is suitable for [Android Empty App](https://github.com/kaosf/android-e
 ```
 
 The App ID of the empty app (`com.example.app`) will be changed to `com.yourcompany.awesomeapp` and directory structure will be also changed.
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
