@@ -1,5 +1,7 @@
 # Android App ID Modifier
 
+Version 0.0.1
+
 This tool is suitable for [Android Empty App](https://github.com/kaosf/android-empty-app).
 
 ## Usage
