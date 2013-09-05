@@ -1,7 +1,5 @@
 # Android Empty App Renamer
 
-Version 1.0.0
-
 This tool is suitable for [Android Empty App](https://github.com/kaosf/android-empty-app).
 
 ## Usage
