@@ -1,8 +1,8 @@
 #!/bin/bash
 
 if [ $# -lt 3 ]; then
-  echo '3 arguments are required.' 2>&1
-  echo 'They are used for $1.$2.$3.' 2>&1
+  echo '3 arguments are required.' >&2
+  echo 'They are used for $1.$2.$3.' >&2
   exit 1
 fi
 
